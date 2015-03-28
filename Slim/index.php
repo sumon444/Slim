@@ -7,7 +7,6 @@
  *
  * If you are using Composer, you can skip this step.
  */
-echo "Hello World!";
 require 'Slim/Slim.php';
 
 \Slim\Slim::registerAutoloader();
